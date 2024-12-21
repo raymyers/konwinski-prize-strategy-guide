@@ -3,7 +3,7 @@
 
 Contest details: [kprize.ai](https://kprize.ai)
 
-**Work In Progress :)**
+**Work In Progress :)** [Questions](https://github.com/raymyers/konwinski-prize-strategy-guide/issues/1) and PRs welcome.
 
 ## Learning Path
 
