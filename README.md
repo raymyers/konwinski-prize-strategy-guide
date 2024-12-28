@@ -5,6 +5,14 @@ Contest details: [kprize.ai](https://kprize.ai)
 
 **Work In Progress :)** [Questions](https://github.com/raymyers/konwinski-prize-strategy-guide/issues/1) and PRs welcome.
 
+## Getting Started
+
+Download the contest [data](https://www.kaggle.com/competitions/konwinski-prize/data) and checkout Tong Hui Kang's [starter notebook](https://www.kaggle.com/competitions/konwinski-prize/discussion/553294) and [running note](https://www.kaggle.com/code/huikang/starter-notebook-select-patch-verify/comments#3082193).
+
+Then you might like to start with a simple existing agent such as [Agentless](https://github.com/OpenAutoCoder/Agentless/tree/main) and work on plugging it into a model. No closed models or external API calls are allowed.
+
+The best Open Weight coding model is currently DeepSeeker v3, but the runtime environment is probably too limited for it. We will update this when it's more clear of what models are viable. The starter above uses [Qwen2.5-Coder-32B-Instruct](https://github.com/QwenLM/Qwen2.5-Coder).
+
 ## Learning Path
 
 Start by making sure you understand these terms.
