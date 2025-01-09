@@ -39,3 +39,4 @@ Start by making sure you understand these terms.
 This competition is limited to Open Weight models, which are currently considered somewhat weak for this kind of agent. Fine-tuning may be a good idea.
 
 * [Scaling data collection for training software engineering agents](https://nebius.com/blog/posts/scaling-data-collection-for-training-swe-agents) by Nebius, dataset of SWE-agent trajectories.
+* [Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://arxiv.org/pdf/2408.16737) by Hritik Bansal et al (October 2024).
