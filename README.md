@@ -40,3 +40,4 @@ This competition is limited to Open Weight models, which are currently considere
 
 * [Scaling data collection for training software engineering agents](https://nebius.com/blog/posts/scaling-data-collection-for-training-swe-agents) by Nebius, dataset of SWE-agent trajectories.
 * [Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling](https://arxiv.org/pdf/2408.16737) by Hritik Bansal et al (October 2024).
+* [Training Software Engineering Agents and Verifiers with SWE-Gym](https://arxiv.org/abs/2412.21139) by Jiayi Pan et al (December 2024).
