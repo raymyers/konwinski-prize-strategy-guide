@@ -25,6 +25,7 @@ Start by making sure you understand these terms.
 * [Retrieval Augmented Generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
 * Fine-tuning
 * [SWE-bench](https://www.swebench.com) - A benchmark on an agent's ability to complete realistic tasks on an entire code repository, taken from GitHub issues
+* [SWE-bench+](https://arxiv.org/pdf/2410.06992) - A more rigorous evaluation dataset SWE-Bench+ without suspicious patches and solution leakages.
 * [SWE-agent](https://swe-agent.com) - One of the first Open Source agents to perform well on SWE-bench, has a simple architecture that can be studied
 
 ### Agent design
